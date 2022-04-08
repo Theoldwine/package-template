@@ -1,6 +1,6 @@
 # Dio_images
 
-Description.
+Description:
 
 The package Dio_images is used to:
 
@@ -31,7 +31,7 @@ file1_name.my_function()
 ```
 
 ## Author
-Th
+Theoldwine
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
