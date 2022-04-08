@@ -14,7 +14,7 @@ setup(
     description="projeto python leitura da imagem",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Theoldwine/package-template",
+    url="https://pypi.org/project/Dio-Images/",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
